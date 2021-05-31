@@ -22,6 +22,7 @@ Functional javascript study inspired by Haskell
   - some
   - every
   - compose
+  - pipeline
 
 4. 콜백 함수와 보조 함수
    - 콜백이란?
