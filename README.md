@@ -10,19 +10,19 @@ Functional javascript study inspired by Haskell
 
 ## List to study
 1. 절차지향과 함수형 프로그래밍의 차이 ?
-  - 일급 함수란 ? 
+      - 일급 함수란 ? 
 
 3. 고차함수란?
-  - 함수를 인자로 받아 실행하는 함수
-  - 함수를 리턴하는 함수
-  - 함수를 대신 실행하는 함수를 리턴하는 함수
-  - Filter
-  - Map
-  - find
-  - some
-  - every
-  - compose
-  - pipeline
+      - 함수를 인자로 받아 실행하는 함수
+      - 함수를 리턴하는 함수
+      - 함수를 대신 실행하는 함수를 리턴하는 함수
+      - Filter
+      - Map
+      - find
+      - some
+      - every
+      - compose
+      - pipeline
 
 4. 콜백 함수와 보조 함수
    - 콜백이란?
