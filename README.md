@@ -75,3 +75,16 @@
       - L.takeUtil
 
 8. monade
+
+---
+### Commit Convention
+```
+      [ keyword ] : 커밋 내용 (파일이름)
+      keywords : 
+                  docs : 문서화,
+                  style : 스타일 관련,
+                  build : 빌드와 배포,
+                  fix: 에러 수정,
+                  feature: 기능 추가,
+                  refactor: 코드 개선
+```
