@@ -41,6 +41,12 @@
   - iteratee
   - predicate
   - mapper
+- 함수 조립하기
+  - 한 번만 실행하는 함수
+    - once
+  - 다시 물어보지 않는 함수
+    - skip
+  
 
 ### 5. currying 과 partial
 - currying 이란?
