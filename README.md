@@ -8,7 +8,7 @@
 | -------- | -------- | -------- | 
 |전예진 |  [pikpokjeon](https://github.com/pikpokjeon)|  Jun, 1|
 | 이연지|  [yzzeee](https://github.com/yzzeee)| Jun, 1|
-
+참여하실 분은 pikpokjeon@gmail.con 으로 연락주세요!
 ---
 
 | 토픽 | 규칙 | 레퍼런스 |
