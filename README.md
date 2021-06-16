@@ -1,4 +1,4 @@
-# Functional-JS-Study 
+# Functional-JS-Study [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikpokjeon%2FFunctional-JS-Study&count_bg=%23FFAD0F&title_bg=%23555555&icon=&icon_color=%23984040&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=true)](https://hits.seeyoufarm.com)
 <small> Functional Javascript Study inspired by Haskell </small>
 ### 함수형 자바스크립트 스터디
 > <strong>함수형 패러다임의 철학을 자바스크립트에 녹여 그 원리를 이해</strong> 하기위해 공부합니다. <br /> 외부 자바스크립트 함수형 라이브러리를 답습하지만, 결과물은 나만의 것이 되어야 합니다.
